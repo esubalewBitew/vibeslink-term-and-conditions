@@ -11,7 +11,7 @@ export default function Home() {
     <div className="min-h-screen bg-zinc-50 font-sans dark:bg-black">
       <main className="mx-auto w-full max-w-4xl px-4 py-12 sm:px-8 lg:px-16">
         <div className="bg-white dark:bg-black rounded-lg shadow-sm p-8 sm:p-12">
-          {/* Header */}
+          
           <div className="mb-12 border-b border-zinc-200 dark:border-zinc-800 pb-8">
             <h1 className="text-4xl font-bold text-black dark:text-zinc-50 mb-4">
               VIBESLINKS PLATFORM PRIVACY POLICY
@@ -21,7 +21,6 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Section 1: Introduction */}
           <section className="mb-12">
             <h2 className="text-2xl font-semibold text-black dark:text-zinc-50 mb-4">
               1. INTRODUCTION
